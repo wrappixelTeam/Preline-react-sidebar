@@ -1,0 +1,34 @@
+[
+   {
+     "SidebarItem" : [
+        {
+            "id":1,
+            "icon" :"fa-gauge",
+            "Item":"Dashboard"
+        },
+        {
+            "id":2,
+            "icon" :"fa-diagram-project",
+            "Item":"Project"
+        },
+        {
+            "id":3,
+            "icon" :"fa-calendar-days",
+            "Item":"Calendar"
+        },
+        {
+            "id":4,
+            "icon" :"fa-file-invoice",
+            "Item":"Notes"
+        }
+        
+     ],
+     "DropdownItem" : [
+        {
+            "id":5,
+            "icon" :"fa-user",
+            "Item":"Account"
+        }
+     ]
+   }
+]
